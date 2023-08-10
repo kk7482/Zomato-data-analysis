@@ -4,4 +4,4 @@ Welcome to the Zomato Data Analysis project repository! In this project, I've co
 
 - **Python**: Utilized for data manipulation, analysis, and visualization.
 - **Pandas**: Used for data preprocessing and manipulation.
-- **Matplotlib and Seaborn**: Employed for creating visualizations and charts.
+- **Matplotlib and Seaborn**: Employed for creating visualizations and chart.
